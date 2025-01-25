@@ -1,6 +1,6 @@
 # Codecademy Anonymous Ai Chat API Integration
 
-A Python interface to interact with Codecademy's anonymous chat feature. Designed for educational purposes to study API interactions and chatbot implementations.
+A Python interface to interact with Codecademy's anonymous chat feature that connected to Codecademy database. Designed for educational purposes to study API interactions and chatbot implementations.
 
 ## Features
 
