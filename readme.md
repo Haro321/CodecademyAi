@@ -16,3 +16,6 @@ A Python interface to interact with Codecademy's anonymous chat feature. Designe
 - `requests` library
 - reCAPTCHA v3 solver integration
 - Basic understanding of API authentication
+
+## To Buy reCaptcha Solver ( python source ) :
+  https://t.me/haro_63
